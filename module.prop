@@ -1,0 +1,7 @@
+id=nobg-process
+name=No Background Process
+version=v1.0.0
+versionCode=1
+author=kakashijk
+description=Disable Android background processes
+repository=https://github.com/kakashijk/nobg-process
